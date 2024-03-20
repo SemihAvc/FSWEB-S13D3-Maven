@@ -11,6 +11,8 @@ public class Main {
 
         System.out.println("Age: " + person.getAge());
 
+
+
         Wall wall = new Wall(5,4);
 
         System.out.println("area= " + wall.getArea());
